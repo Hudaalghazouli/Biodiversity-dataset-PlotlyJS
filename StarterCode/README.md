@@ -10,7 +10,7 @@ What we did:
 
 3. Created a bubble chart to show each sample.
 
-![Bubble Chart](Images/bubbleChart.png)
+![Bubble Chart](Images/BubbleChart.png)
 
 4. Displayed the sample metadata.
 
